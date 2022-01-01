@@ -25,3 +25,9 @@ arr.push(i);
            else{
                console.log(arr[2]);}
         }
+
+    //using Math.max()//
+    Math.max()
+    max= Math.max(arr[0],arr[1],arr[2]);
+    console.log(max);
+     
